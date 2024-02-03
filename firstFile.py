@@ -14,7 +14,7 @@ import math
 x = math.exp(6)
 print(x)
 
-print("This is the first line of the new branch\
+print("This is the first line of the new branch \
 labeled 'New-Features'")
 print("For this first test I am only going to add lines of \
 code, not delete")
